@@ -1,0 +1,63 @@
+# Visual Studio Code directory
+.vscode/
+
+# Visual Studio file
+*.suo
+*.user
+*.sln.docstates
+
+# ReSharper and Rider files
+_ReSharper*/
+*.sln.DotSettings.user
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Tt]est[Rr]esult*/
+nupkg/
+p/
+*.npmrc
+*.pem
+*.pfx
+*.snk
+*.swp
+
+# Resharper workspace
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono-specific
+mono_crash.*
+
+# Misc
+Icon?
+*.[Pp]db
+*.mdb
+*.opendb
+*.sqlite
+*.sqlite3
+*.sdf
+
